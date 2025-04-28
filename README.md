@@ -1,6 +1,6 @@
 # Snake-and-Ladders
 
-This is a text only version of the popular board game "Snakes and Ladders". Multiple players in the game (minimum 2)
+This is a text only version of the popular board game "Snakes and Ladders". Multiple players can play the game (minimum 2)
 
 
 
