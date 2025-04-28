@@ -1,0 +1,4 @@
+This project is my first project with the usage of classes and importing functions from other files in python.
+I learned a lot from this project about basics of classes and functions and have also used prettytables for the end positions table.
+
+I plan to few changes in this game like playing with a random snake and ladder layout. But eventually i plan to make a version 2.0 of this game where i use flask to host his game online on a website, with actual GUI so the that game is actually playable and make it multiplayer.
